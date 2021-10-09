@@ -35,7 +35,7 @@
 * [[Payload - Website Lock]]
 * [Payload - Logoff Prank](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload-:-Log-Off-Prank-(Windows-7))
 
-### Target: Windows 10
+### Target: Windows 10 & 11
 
 * [Payload - Wifi Password Grabber](https://github.com/axel05869/Wifi-Grab)
 * [Payload - Netcat ReverseShell  2021](https://github.com/BigLor96/Netcat-Revershell-NEW)
