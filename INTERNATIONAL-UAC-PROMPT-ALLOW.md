@@ -12,7 +12,8 @@ DELAY 50
 ENTER
 ***
 
-`* DELAY 500
+`
+* DELAY 500
 * TAB
 * DELAY 200
 * TAB
