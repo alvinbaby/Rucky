@@ -1,3 +1,4 @@
+```
 REM turn off windows defender then clear action center
 REM author:judge2020
 REM You take responsibility for any laws you break with this, I simply point out the security flaw
@@ -26,3 +27,4 @@ DELAY 500
 ENTER
 DELAY 100
 GUI a
+```
