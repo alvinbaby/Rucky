@@ -8,11 +8,10 @@
 * Windows 10
 
 ## Info;
-* Author : lucagrosshennig
+* Author : Lvc4
 * Duckncoder : 1.2 
 * Target : Windows 10 Machines 
-* my Webseite : [lucagrosshennig.club](lucagrosshennig.club) 
-* my github : [github.com/lucagrosshennig](github.com/lucagrosshennig) 
+* my github : [github.com/Lvc4](github.com/Lvc4) 
 * Description : Connect to sftp server and uploads WLAN passwords 
 
 ```
