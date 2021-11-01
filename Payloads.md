@@ -69,7 +69,7 @@
 
 ### Target: OSX
 
-* [Payload - OSX Inject an EggShell RAT payload](https://github.com/Spencer-Kornfeld/EggShell-Rubber-Ducky/blob/master/script.txt)
+* [Payload - OSX Inject an EggShell RAT payload](https://github.com/LP-H4cmilo/EggShell-Rubber-Ducky/blob/main/script.txt)
 * [Payload - OSX Sudo Passwords Grabber](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Linux-and-OSX-sudo-password-grabber)
 * [[Payload - OSX Root Backdoor]]
 * [[Payload - OSX User Backdoor]]
