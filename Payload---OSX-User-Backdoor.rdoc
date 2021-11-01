@@ -1,6 +1,6 @@
 * Author - Patrick Mosca
 * Insert ducky. This script will created a persistent backdoor as the current user. It works by injecting code into a terminal from Spotlight. This payload was encoded with v2.4 on firmware duck_v2.1.hex. Change to your IP address or domain name and port number. 
-* A good tutorial on the payload here: http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/
+* A good tutorial on the payload here: https://web.archive.org/web/20190917130225/http://patrickmosca.com:80/root-a-mac-in-10-seconds-or-less/
 
 
  REM Patrick Mosca
