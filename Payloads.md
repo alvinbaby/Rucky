@@ -69,10 +69,10 @@
 
 ### Target: OSX
 
-* [Payload - OSX Inject an EggShell RAT payload](https://github.com/LP-H4cmilo/EggShell-Rubber-Ducky/blob/main/script.txt)
+* [Payload - OSX Inject an EggShell RAT payload](https://github.com/LP-H4cmilo/EggShell-Rubber-Ducky/blob/main/script.txt) (Revised 2021)
 * [Payload - OSX Sudo Passwords Grabber](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Linux-and-OSX-sudo-password-grabber) (Revised 2021)
-* [[Payload - OSX Root Backdoor]]
-* [[Payload - OSX User Backdoor]]
+* [[Payload - OSX Root Backdoor]] (Revised 2021)
+* [[Payload - OSX User Backdoor]] (Revised 2021)
 * [[Payload - OSX Local DNS Poisoning]]
 * [[Payload - OSX Photo Booth Prank]]
 * [[Payload - OSX Internet Protocol Slurp]]
