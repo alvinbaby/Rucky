@@ -64,7 +64,7 @@
 ](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Windows:-CVE-2021-1675---PrintNightmare----Administrative-Escalation)
 * [Payload - Wifi credentials stealer](https://github.com/norepository/wifi-grabber-rubberducky) (Revised 2021)
 * [[Payload - Windows 10 : Download and execute file with Powershell]]
-* [[Payload - Windows 10 : Disable windows defender]] (Revised 2021)
+* [[Payload - Windows 10 & 11 : Disable windows defender]] (Revised 2021)
 * [[Payload - Windows 10 : Disable Windows Defender through powershell]]
 
 ### Target: OSX
