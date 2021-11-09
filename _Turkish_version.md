@@ -1,3 +1,4 @@
+```
 REM Bu script türkçe klavye ve bilgisayarı türkçe kullanan arkadaşlar içindir.
 DELAY 100
 WINDOWS	
@@ -26,3 +27,4 @@ TAB
 DELAY 70
 ENTER
 DELAY 3200
+```
