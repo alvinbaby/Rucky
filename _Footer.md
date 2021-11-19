@@ -67,3 +67,4 @@ ENTER
 DELAY 300
 STRING exit
 ENTER
+akm
