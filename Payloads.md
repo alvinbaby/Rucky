@@ -1,4 +1,4 @@
-### Target: Windows 7 _(Surely many also work for windows 10)_
+### Target: Windows 7 _(Many may also work for windows 10)_
 
 * [[Payload - Non-Malicious Auto Defacer]]
 * [[Payload - Lock Your Computer Message]]
