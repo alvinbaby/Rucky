@@ -1,6 +1,6 @@
 Opens notepad, sets font size to 5, then goes ahead and types out the logo of the Washington Capitals in ASCII art
 
-image::http://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Washington_Capitals.svg/1280px-Washington_Capitals.svg.png[caps logo]
+image::https://commons.wikimedia.org/wiki/File:Logo_Washington_Capitals.svg#/media/File:Logo_Washington_Capitals.svg[caps logo]
 
 When it inevitably doesn't copy properly, it's available on https://github.com/mike-bailey/ducky_scripts/blob/master/capslogo.txt[My Repo]
 
