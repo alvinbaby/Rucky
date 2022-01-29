@@ -41,9 +41,10 @@
 * [Payload - Wifi Password Grabber](https://github.com/axel05869/Wifi-Grab)
 * [Payload - Netcat ReverseShell  2021](https://github.com/BigLor96/Netcat-Revershell-NEW)
 * [Payload - Disable Windows Defender](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---WIN10-Disable-Windows-Defender)
-* [Payload - Chrome password stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer) (Revised 2021)
-* [Payload - Change chrome startup page](https://github.com/Guereak/USBDuckyScripts/wiki/Default-webpage-changer) (Revised 2021)
-* [Payload - Discord token grabber](https://github.com/Guereak/USBDuckyScripts/wiki/Discord-token-grabber) (Revised 2021)
+* [Payload - Python HTTP Server Exploit](https://github.com/Guereak/USBDuckyScripts/wiki/Python-HTTP-Server-exploit) (Revised 2022)
+* [Payload - Chrome Password Stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer) (Revised 2021)
+* [Payload - Change Chrome Startup Page](https://github.com/Guereak/USBDuckyScripts/wiki/Default-webpage-changer) (Revised 2021)
+* [Payload - Discord Token Grabber](https://github.com/Guereak/USBDuckyScripts/wiki/Discord-token-grabber) (Revised 2021)
 * [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Retrieve SAM and SYSTEM from a live file system]]
 * [[Payload - XMAS]]
