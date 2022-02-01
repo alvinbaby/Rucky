@@ -68,6 +68,7 @@
 * [Payload - Windows 10 and 11 : Disable windows defender](https://github.com/Krishnachaittanyah/duckyscripts/wiki/Payload-Disable-Windows-Defender) (Revised 2021)
 * [[Payload - Windows 10 : Disable Windows Defender through powershell]]
 * [Payload - Windows 10 and 11 : Disable Windows Firewall](https://github.com/Krishnachaittanyah/duckyscripts/wiki/Payloads-Disable-Windows-Firewall)
+* [Payload - Windows 10 and 11 : Download and run NoEscape.exe](https://github.com/WinparWinpar/duckyscripts/wiki/Payload-download-run-no-escape-exe)
 
 ### Target: OSX
 
