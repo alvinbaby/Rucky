@@ -38,6 +38,7 @@
 ### Target: Windows 10 & 11
 
 * [Payload - Gain A Meterpreter Shell In 5 Seconds](https://github.com/GamehunterKaan/BadUSB-Meterpreter)
+* [Payload - Steal Browser Passwords In 5 Seconds.(Supports Almost All Browsers)](https://github.com/GamehunterKaan/BadUSB-Browser)
 * [Payload - Wifi Credentials Stealer](https://github.com/norepository/wifi-grabber-rubberducky) (Revised 2021)
 * [Payload - Wifi Password Grabber](https://github.com/axel05869/Wifi-Grab)
 * [Payload - Netcat ReverseShell](https://github.com/BigLor96/Netcat-Revershell-NEW) (Revised 2021)
