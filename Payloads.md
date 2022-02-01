@@ -84,7 +84,7 @@
 * [[Payload - OSX Ascii Prank]]
 * [[Payload - OSX iMessage Capture]]
 * [[Payload - OSX Grab Minecraft Account Password and upload to FTP]]
-* [[Payload - OS X Wget and Execute]]
+* [[Payload - OSX Wget and Execute]]
 * [[Payload - OSX Passwordless SSH access (ssh keys)]]
 * [Payload - OSX Bella RAT Installation](https://github.com/killingit57/bella-usb-rubber-ducky)
 * [Payload - OSX Sudo for all users without password](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---OSX-Sudo-for-all-users-without-password)
