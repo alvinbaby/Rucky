@@ -1,6 +1,6 @@
 # [](#usb-rubber-ducky-project-wiki)USB Rubber Ducky Project Wiki
 
-![Ducky](Home%20%C2%B7%20hak5darren_USB-Rubber-Ducky%20Wiki_files/687474703a2f2f7573627275626265726475636b792e636f6d2f696d6167.asc)
+![Ducky](https://cdn.shopify.com/s/files/1/0068/2142/products/rubber_ducky_800x.jpg?v=1590788897)
 
 # [](#about)About
 
