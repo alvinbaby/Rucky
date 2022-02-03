@@ -39,7 +39,7 @@
 
 * [Payload - Gain A Meterpreter Shell In 5 Seconds](https://github.com/GamehunterKaan/BadUSB-Meterpreter)
 * [Payload - Steal Browser Passwords In 5 Seconds](https://github.com/GamehunterKaan/BadUSB-Browser) (Supports Almost All Browsers)
-* [Payload - Wifi Credentials Stealer](https://github.com/norepository/wifi-grabber-rubberducky) (Revised 2021)
+* [Payload - Wifi Credentials Stealer](https://github.com/norepository/wifi-grabber-rubberducky) (Updated 2022)
 * [Payload - Wifi Password Grabber](https://github.com/axel05869/Wifi-Grab)
 * [Payload - Netcat ReverseShell](https://github.com/BigLor96/Netcat-Revershell-NEW) (Revised 2021)
 * [Payload - Disable Windows Defender](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---WIN10-Disable-Windows-Defender)
