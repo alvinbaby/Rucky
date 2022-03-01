@@ -21,7 +21,7 @@ ENTER
 The Powershell script on your webserver (http://your-website.com/powershellscript.ps):
 ---------------------------------------------------------------------
 
-`(new-object System.Net.WebClient).DownloadFile('http://your-website.com/mylittlepony.jpg',"$Env:Temp\\b.jpg");
+```(new-object System.Net.WebClient).DownloadFile('http://your-website.com/mylittlepony.jpg',"$Env:Temp\\b.jpg");
 
 Add-Type @"
 
@@ -102,7 +102,7 @@ namespace Wallpaper
 
 "@
 
-[Wallpaper.Setter]::SetWallpaper("$Env:Temp\b.jpg" , 2 )`
+[Wallpaper.Setter]::SetWallpaper("$Env:Temp\b.jpg" , 2 )```
 
 
 
