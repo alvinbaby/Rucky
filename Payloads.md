@@ -94,4 +94,4 @@
 * [[Payload - Android 5.x Lockscreen]]
 
 ### Target: Chromebook
-[Chromebook - Change language and delete original language prank](https://github.com/RexMan04/Chromebook-Language-Changer)
+* [Chromebook - Change language and delete original language prank](https://github.com/RexMan04/Chromebook-Language-Changer)
