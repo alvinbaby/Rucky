@@ -47,6 +47,7 @@
 * [Payload - Chrome Password Stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer) (Revised 2021)
 * [Payload - Change Chrome Startup Page](https://github.com/Guereak/USBDuckyScripts/wiki/Default-webpage-changer) (Revised 2021)
 * [Payload - Discord Token Grabber](https://github.com/Guereak/USBDuckyScripts/wiki/Discord-token-grabber) (Revised 2021)
+* [Payload - Quick Discord Token Grabber ](https://github.com/RexMan04/Ducky-Discord-Token-Grabber) (2022)
 * [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Retrieve SAM and SYSTEM from a live file system]]
 * [[Payload - XMAS]]
@@ -71,7 +72,6 @@
 * [[Payload - Windows 10 : Disable Windows Defender through powershell]]
 * [Payload - Windows 10 and 11 : Disable Windows Firewall](https://github.com/Krishnachaittanyah/duckyscripts/wiki/Payloads-Disable-Windows-Firewall)
 * [Payload - Windows 10 and 11 : Download and run NoEscape.exe](https://github.com/WinparWinpar/duckyscripts/wiki/Payload-download-run-no-escape-exe)
-* [Payload - Quick Discord Token Grabber (2022) ](https://github.com/RexMan04/Ducky-Discord-Token-Grabber)
 
 ### Target: OSX
 
