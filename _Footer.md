@@ -1,1 +1,1 @@
-![](https://duckduckgo.com/?q=spongebob+sucking+patrick&iax=images&ia=images&iai=https%3A%2F%2Fwww.meme-arsenal.com%2Fmemes%2F39384ac28aabd8a84fbf2a7dbb8cec68.jpg)
+.
