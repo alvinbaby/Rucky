@@ -96,3 +96,4 @@
 
 ### Target: Chromebook
 * [Payload - Change language and delete original language prank](https://github.com/RexMan04/Chromebook-Language-Changer)
+* [Payload - Sign out of Chromebook prank](https://github.com/sillyangel/rubber-ducky/blob/main/Chromebook/csqq.dd)
