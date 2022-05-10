@@ -13,11 +13,11 @@ GUI N
 DELAY 250
 STRING echo '
 ENTER
-STRING                 $$$$
+STRING                 ####
 ENTER
-STRING               $$    $$
+STRING               ##    ##
 ENTER
-STRING               $$    $$
+STRING               ff    ff
 ENTER
 STRING               $$    $$
 ENTER
@@ -55,4 +55,5 @@ STRING          $$$                $$$
 ENTER
 STRING           $$                $$
 ENTER
-STRING           $$$$$$$$$$$$$$$$$$$$</code></pre>
+STRING           $$$$$$$$$$$$$$$$$$$$
+</code></pre>
