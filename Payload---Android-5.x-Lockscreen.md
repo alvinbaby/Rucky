@@ -1,4 +1,4 @@
-
+# I edited this because some stupid person pasted the Rick Roll payload instead of the Android 5.x Bypass Lockscreen payload :(
 
 DELAY 5000
 SPACE
