@@ -47,6 +47,7 @@
 * [Payload - Chrome Password Stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer) (Revised 2021)
 * [Payload - Change Chrome Startup Page](https://github.com/Guereak/USBDuckyScripts/wiki/Default-webpage-changer) (Revised 2021)
 * [Payload - Discord Token Grabber](https://github.com/Guereak/USBDuckyScripts/wiki/Discord-token-grabber) (Revised 2021)
+* [Payload - Discord Token Grabber | Sends Tokens via Discord Webhook](https://github.com/null3000/USB-Rubber-Ducky-Discord-Token-Grabber) (2022)
 * [Payload - Quick Discord Token Grabber ](https://github.com/RexMan04/Ducky-Discord-Token-Grabber) (2022)
 * [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Retrieve SAM and SYSTEM from a live file system]]
