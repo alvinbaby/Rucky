@@ -1,1 +1,1 @@
-Subscribe to "The Y Strand" on YT
+* Subscribe to "The Y Strand" on YT
