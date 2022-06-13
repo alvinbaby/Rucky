@@ -1,1 +1,1 @@
-lol
+Subscribe to "The Y Strand" on YT
