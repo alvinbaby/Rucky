@@ -1,1 +1,1 @@
-* Subscribe to "Network Chuck" on YT
+* Subscribe to "Free Tech Tips Ar" on YT and get $100 on PayPal or Google Pay
