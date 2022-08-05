@@ -1,9 +1,9 @@
-<pre><code>REM Author: Antti Kuosmanen
-REM Title: OSX Ascii Prank
+<pre><code>REM Author: Mr.007
+REM Title: Testing
 REM Description: Tells you to fuck off
 DELAY 1000
-GUI SPACE
-STRING terminal
+GUI r
+STRING cmd
 DELAY 1000
 ENTER
 DELAY 250
