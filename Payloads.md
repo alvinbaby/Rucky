@@ -37,6 +37,8 @@
 
 ### Target: Windows 10 & 11
 
+
+* [Payload - Run exe from sd(optimized)](https://pastebin.com/YRYJR9QN)
 * [Payload - Wifi Stealer](https://github.com/norepository/wifi-grabber-rubberducky) (Updated 2022- Outlook version!)
 * [Payload - Gain A Meterpreter Shell In 5 Seconds](https://github.com/GamehunterKaan/BadUSB-Meterpreter)
 * [Payload - Steal Browser Passwords In 5 Seconds](https://github.com/GamehunterKaan/BadUSB-Browser) (Supports Almost All Browsers)
